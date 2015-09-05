@@ -1,13 +1,11 @@
 package com.abcbank.dao;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBManager {
 	
 	public DBManager() throws ClassNotFoundException, SQLException{
-		System.out.println("This is a new change");
+		System.out.println("This is updated second time change");
 	}
 
 	
